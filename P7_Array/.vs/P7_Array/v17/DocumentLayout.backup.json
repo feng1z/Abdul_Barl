@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Abdul_Barl\\P7_Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45023655-9118-4546-A980-A2DA4150CAF3}|P7_Array\\P7_Array.vcxproj|E:\\Abdul_Barl\\P7_Array\\P7_Array\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45023655-9118-4546-A980-A2DA4150CAF3}|P7_Array\\P7_Array.vcxproj|solutionrelative:P7_Array\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "E:\\Abdul_Barl\\P7_Array\\P7_Array\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "P7_Array\\\u6E90.cpp",
+              "ToolTip": "E:\\Abdul_Barl\\P7_Array\\P7_Array\\\u6E90.cpp",
+              "RelativeToolTip": "P7_Array\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-08T02:43:06.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
